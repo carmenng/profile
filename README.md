@@ -21,7 +21,7 @@ _Bridging inclusive AI development across Asia and the West_
 - 📺 Former news intern at **Bloomberg News** and **CNN International**
   
 ### 📱 Climate Technology Communications
-- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects, i.e. carbon removal, data center decarbonization, renewables, e-mobility infrastructure
+- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects and AI use cases in urban tech., i.e. carbon removal, urban decarbonization, renewables integration, e-mobility infrastructure.
   
 ### 🌍 Intercultural social innovation
 - Trilingual fluency in **Cantonese, Mandarin, English**, intermediate **Japanese**, beginner's level **German**.
@@ -41,7 +41,7 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2022 - Present)  
-I lead global campaigns and develop industry-standard research content, e.g. white papers and insight studies, for climate technologies and smart infrastructure across global markets.
+I lead global campaigns and develop industry-standard research content, e.g. white papers and insight studies, for climate technologies and AI use cases in smart infrastructure across global markets.
 
 📅 (2014 - 2020) Previous regional roles with an EMEA focus with Siemens include: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation 
 
