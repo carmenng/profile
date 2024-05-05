@@ -1,22 +1,36 @@
+
 # Carmen Ng
+_AI ethics researcher, senior tech comms professional, and former breaking news journalist_
 
-### AI Governance & Ethics Research | Climate Tech Communications | Certified Data Ethics Professional
+_Bridging inclusive AI development across Asia and the West_
 
----
-
-### 📝 About Me
-👋 Hi! I am Carmen Ng. I'm passionate about bridging the gap between responsible AI, intercultural fairness, and technology policy. My interest has been shaped by my diverse roles in Asia and Europe, including:
-
-- 🌐 Certified data ethics professional and facilitator **(Open Data Institute, UK)**
-- 📰 Former journalist covering critical, Asia-focused market and political issues from Hong Kong **(Reuters, Bloomberg, and The Wall Street Journal)**
-- 🤖 Early-career AI governance researcher with computational skills, co-authoring and contributing research outputs on AI in biometric tech., AI and democracy, digital self-determination, and AI strategies in the EU and Asia **(Berkman Klein Center for Internet & Society; Center for AI and Digital Policy; MIT Science Policy Review)**
-- 🌍 Senior communications lead responsible for global campaigns and research content for climate technology across EMEA markets **(Siemens)**
-
-I speak fluent Cantonese, Mandarin, English, along with intermediate Japanese and basic German. Passionate about social innovation, I also co-founded a non-profit organisation researching blockchain use cases for the UN Sustainable Development Goals **(PositiveBlockchain)**.
+[Email](mailto:carmen.ng@tum.de) / [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2Fcarmen_ngkaman) / [LinkedIn](https://www.linkedin.com/in/ngcarmen/) / [Google Scholar](https://scholar.google.com/citations?user=CRGNIPgAAAAJ&hl=en#d=gsc_md_cod&t=1714929260684&u=%2Fcitations%3Fview_op%3Dlist_suggested_coauthors%26hl%3Den%26json%3D%26user%3DCRGNIPgAAAAJ%23t%3Dgsc_cod_sugg) 
 
 ---
 
-### 💼 Experience
+## 👩🏼‍💻 AI Governance & Ethics Research
+
+- 🤖 **AI Policy Research Group Member** — **Center for AI and Digital Policy, US** (2024- Present)
+- 🌐 **Certified Data Ethics Professional and Facilitator** — **Open Data Institute, UK** (2022 - Present)
+- 📚 **Co-authored peer-reviewed article** for the **MIT Science Policy Review** on the ethical and regulatory lanscape of emotion AI (2022)
+- 📝 **Research Sprint Fellow** (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University; Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
+
+## 📝 Journalism
+- 📰 Former community editor at **Reuters News**, with a breaking news curation role for pan-Asia news
+- 📰 Hong Kong-based freelance co-producer and journalist for **The Wall Street Journal Asia (Hong Kong), The Straits Times (Singapore), NHK (Japan)**; Former news intern at **Bloomberg News** and **CNN International**
+  
+## 📱 Climate Technology Communications
+- 👩🏼‍💻 **Senior technology communications lead** with experience in crafting global campaigns and research studies for climate tech across EMEA markets, i.e. carbon technologies, renewables, e-mobility infrastructure **(Siemens)**
+  
+## 🌍 Intercultural social innovation
+- Fluent Cantonese, Mandarin, English, along with intermediate Japanese and beginner-level German.
+- Co-founded a cross-cultural, decentralised non-profit organisation researching blockchain use cases for the UN Sustainable Development Goals across Europe and Asia **(PositiveBlockchain)**.
+
+
+---
+
+
+### 💼 Professional Experience
 
 **AI Policy Research Group Member**  
 **Center for AI & Digital Policy**
@@ -42,20 +56,21 @@ I scaled Reuters’ social media platform by curating breaking news content and 
 I co-produced political and social reports and documentaries, including award-winning coverage for SBS’s “Dateline”, focusing on human rights issues.
 
 ---
+
 ### 🌍 AI Research
 
 **Contributor**: 
-**"Artificial Intelligence and Democratic Values 2023 AI Index" by Center for AI and Digital Policy**  
-A comprehensive review of AI policies across 80 countries, for the Center for AI and Digital Policy.
+**"Artificial Intelligence and Democratic Values 2023 AI Index", Center for AI and Digital Policy**  
+- Co-developed a comprehensive review of AI policies across 80 countries.
 
 **Research Sprint Fellow**  
 **Berkman Klein Center for Internet & Society, Harvard University**  
-Developed resources on AI governance and digital rights, contributing to global educational and policy frameworks.
+- Co-developed resources on AI governance and digital rights, contributing to global educational and policy frameworks, as one of the global early-scholar fellows from 21 countries participated in the Spring 2021 Research Sprint on "Digital Self-Determination: Towards Autonomy and Agency in the Digital Age” . The global cohort worked collaboratively with peers and experts from around the globe to produce a living repository that includes readings, case studies, examples, and narratives that together describe the evolving notion of digital self-determination and its social, cultural, and technical context.
 
 **Research Assistant**  
 **TUM School of Social Sciences & Technology**  
 (2022)  
-Assisted research focused on the role of law in shaping technology design, particularly in relation to democracy and human rights.
+- Assisted research focused on the role of law in shaping technology design, particularly in relation to democracy and human rights.
 
 ---
 
@@ -74,7 +89,6 @@ Assisted research focused on the role of law in shaping technology design, parti
 
 - **Co-Author**: Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"Should machines be allowed to ‘read our minds’? Uses and regulation of biometric techniques that attempt to infer mental states."_ MIT Science Policy Review 3, 112-121 (2022). [![DOI](https://img.shields.io/badge/DOI-10.38105/spr.qy2iibrk72-blue.svg)](https://doi.org/10.38105/spr.qy2iibrk72)
 
-An analysis on the regulation of biometric techniques, published in the peer-reviewed MIT Science Policy Review.
 
 ---
 
@@ -95,3 +109,4 @@ My thesis focuses on responsible AI, exploring its impacts on global policy and 
 - **Email**: carmen.ng@tum.de
 
 ---
+</html>
