@@ -21,7 +21,7 @@ _Bridging inclusive AI development across Asia and the West_
 - 📺 Former news intern at **Bloomberg News** and **CNN International**
   
 ### 📱 Climate Technology Communications
-- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects and AI use cases in urban tech., i.e. carbon removal, urban decarbonization, renewables integration, e-mobility infrastructure.
+- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects and AI in urban tech., i.e. carbon removal, urban decarbonization, renewables integration, e-mobility infrastructure.
   
 ### 🌍 Intercultural social innovation
 - Trilingual fluency in **Cantonese, Mandarin, English**, intermediate **Japanese**, beginner's level **German**.
