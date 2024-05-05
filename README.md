@@ -1,6 +1,5 @@
 
-# Carmen Ng
-_AI ethics researcher, senior tech comms professional, former breaking news journalist_
+## AI ethics researcher | Senior tech comms lead | Former journalist
 
 _Bridging inclusive AI development across Asia and the West_
 
@@ -15,9 +14,11 @@ _Bridging inclusive AI development across Asia and the West_
 - 📚 **Co-authored [peer-reviewed article](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)** for the **MIT Science Policy Review** on the ethical and regulatory lanscape of emotion AI (2022)
 - 📝 [**Research Sprint Fellow**](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world) (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University; Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
-### 📝 Journalism
-- 📰 **Former community editor** at **Reuters News**, with a breaking news curation role for pan-Asia news
-- 📰 Hong Kong-based **freelance co-producer, stringer, and journalist** for **The Wall Street Journal Asia** (Hong Kong)'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE); including co-producing award-winning documentaries on Hong Kong's urban poverty for **SBS Australia's "Dateline" program**; Former news intern at **Bloomberg News** and **CNN International**
+### 🎥 Journalism
+- 📝 **Former community editor** at **Reuters News**, with a breaking news curation role for pan-Asia news
+- 🎙️ Hong Kong-based **freelance co-producer, stringer, and journalist** for **The Wall Street Journal Asia** (Hong Kong)'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE)
+- 🎥 Co-produced award-winning documentaries on Hong Kong's urban poverty for **SBS Australia's "Dateline" program**
+- 📺 Former news intern at **Bloomberg News** and **CNN International**
   
 ### 📱 Climate Technology Communications
 - 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects, i.e. carbon removal, data center decarbonization, renewables, e-mobility infrastructure
