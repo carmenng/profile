@@ -11,7 +11,7 @@ _Bridging inclusive AI development across Asia and the West_
 
 - 🤖 [**AI Policy Research Group Member**](https://www.linkedin.com/company/center-for-ai-and-digital-policy/mycompany/) — **Center for AI and Digital Policy, US** (2024- Present)
 - 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
-- 📚 **Co-authored [peer-reviewed article](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)** for the **MIT Science Policy Review** on the ethical and regulatory lanscape of emotion AI (2022)
+- 📚 **Co-authored for the peer-reviewed [**MIT Science Policy Review**](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/) on the ethical and regulatory lanscape of emotion AI (2022)
 - 📝 [**Research Sprint Fellow**](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world) (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University; Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
 ### 🎥 Journalism
