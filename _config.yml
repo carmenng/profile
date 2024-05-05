@@ -1,1 +1,14 @@
+title: Carmen Ng  # You can add your name here
 
+logo: 1.png # Use a relative path to logo image 
+
+description: AI Governance & Ethics Research | Climate Tech Communications | Certified Data Ethics Professional # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: carmen.ng@tum.de # Allow visitors to contact you
