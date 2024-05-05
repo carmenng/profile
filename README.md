@@ -10,14 +10,14 @@ _Bridging inclusive AI development across Asia and the West_
 
 ### 👩🏼‍💻 AI Governance & Ethics Research
 
-- 🤖 **AI Policy Research Group Member** — **Center for AI and Digital Policy, US** (2024- Present)
-- 🌐 **Certified Data Ethics Professional and Facilitator** — **Open Data Institute, UK** (2022 - Present)
-- 📚 **Co-authored peer-reviewed article** for the **MIT Science Policy Review** on the ethical and regulatory lanscape of emotion AI (2022)
-- 📝 **Research Sprint Fellow** (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University; Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
+- 🤖 [**AI Policy Research Group Member**](https://www.linkedin.com/company/center-for-ai-and-digital-policy/mycompany/) — **Center for AI and Digital Policy, US** (2024- Present)
+- 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
+- 📚 **Co-authored [peer-reviewed article](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)** for the **MIT Science Policy Review** on the ethical and regulatory lanscape of emotion AI (2022)
+- 📝 [**Research Sprint Fellow**](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world) (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University; Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
 ### 📝 Journalism
 - 📰 **Former community editor** at **Reuters News**, with a breaking news curation role for pan-Asia news
-- 📰 Hong Kong-based **freelance co-producer and journalist** for **The Wall Street Journal Asia (Hong Kong), The Straits Times (Singapore), NHK (Japan)**; Former news intern at **Bloomberg News** and **CNN International**
+- 📰 Hong Kong-based **freelance co-producer, stringer, and journalist** for **The Wall Street Journal Asia** (Hong Kong)'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE); including co-producing award-winning documentaries on Hong Kong's urban poverty for **SBS Australia's "Dateline" program**; Former news intern at **Bloomberg News** and **CNN International**
   
 ### 📱 Climate Technology Communications
 - 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects, i.e. carbon removal, data center decarbonization, renewables, e-mobility infrastructure
@@ -82,16 +82,16 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
-| **Data Ethics and AI Policy** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
-| **AI and Machine Learning**   | Expertise in ML algorithms, ethical AI frameworks, and policy development. |
+| **Data Ethics & AI Policy** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
+| **AI & Machine Learning**   | Expertise in ML algorithms, ethical AI frameworks, and policy development. |
 | **Programming**   | Beginner-intermediate skills in R and Python. |
-| **Journalism and Media Production** | Experienced in high-impact journalism and multimedia content production across top global media outlets. |
+| **Journalism & Media Production** | Experienced in high-impact journalism and multimedia content production across top global media outlets. |
 
 ---
 
 ### 🎓 Education
 
-*Master's Degree in Politics & Technology*  
+*M. Sc. in Politics & Technology*  
 **Technical University of Munich**  
 My thesis focuses on responsible AI, exploring its impacts on global policy and ethical practices.
 
@@ -99,13 +99,6 @@ My thesis focuses on responsible AI, exploring its impacts on global policy and 
 **Bachelor in Journalism, International Relations*  
 **The University of Hong Kong**  
 **The University of Maryland, College Park, US (exchange program)**
-
----
-
-### 📬 Contact 
-
-- **LinkedIn**: [ngcarmen](https://www.linkedin.com/in/ngcarmen)
-- **Email**: carmen.ng@tum.de
 
 ---
 </html>
