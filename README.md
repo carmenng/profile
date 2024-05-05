@@ -1,5 +1,5 @@
 
-## AI ethics researcher | Senior tech comms lead | Former journalist
+## AI ethics researcher | Senior tech comms lead | Former breaking news journalist
 
 _Bridging inclusive AI development across Asia and the West_
 
@@ -16,8 +16,8 @@ _Bridging inclusive AI development across Asia and the West_
 
 ### 🎥 Journalism
 - 📝 **Former community editor** at **Reuters News**, with a breaking news curation role for pan-Asia news
-- 🎙️ Hong Kong-based **freelance co-producer, stringer, and journalist** for **The Wall Street Journal Asia** (Hong Kong)'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE)
-- 🎥 Co-produced award-winning documentaries on Hong Kong's urban poverty for **SBS Australia's "Dateline" program**
+- 🎙️ Hong Kong-based **freelance co-producer, stringer, and journalist** for **The Wall Street Journal Asia**'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE)
+- 🎥 Co-produced award-winning documentaries on Hong Kong's urban poverty for **SBS Australia**'s "Dateline"
 - 📺 Former news intern at **Bloomberg News** and **CNN International**
   
 ### 📱 Climate Technology Communications
@@ -92,14 +92,14 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 ### 🎓 Education
 
-*M. Sc. in Politics & Technology*  
+*M. Sc. in Politics & Technology* (ongoing)
 **Technical University of Munich**  
 My thesis focuses on responsible AI, exploring its impacts on global policy and ethical practices.
 
 
-**Bachelor in Journalism, International Relations*  
+*Bachelor in Journalism, International Relations*  
 **The University of Hong Kong**  
-**The University of Maryland, College Park, US (exchange program)**
+**The University of Maryland, College Park, US** (exchange program)
 
 ---
 </html>
