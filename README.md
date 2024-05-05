@@ -24,7 +24,7 @@ _Bridging inclusive AI development across Asia and the West_
 - 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. projects, i.e. carbon removal, data center decarbonization, renewables, e-mobility infrastructure
   
 ### 🌍 Intercultural social innovation
-- Fluent **Cantonese, Mandarin, English**, along with intermediate **Japanese** and beginner-level **German**.
+- Trilingual fluency in **Cantonese, Mandarin, English**, intermediate **Japanese**, beginner's level **German**.
 - Co-founder of **PositiveBlockchain**, a cross-cultural, decentralised non-profit organisation researching blockchain use cases for the UN Sustainable Development Goals across Europe and Asia.
 
 
@@ -92,7 +92,7 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 ### 🎓 Education
 
-*M. Sc. in Politics & Technology* (ongoing)
+*M. Sc. in Politics & Technology* (ongoing)  
 **Technical University of Munich**  
 My thesis focuses on responsible AI, exploring its impacts on global policy and ethical practices.
 
@@ -102,4 +102,4 @@ My thesis focuses on responsible AI, exploring its impacts on global policy and 
 **The University of Maryland, College Park, US** (exchange program)
 
 ---
-</html>
+
