@@ -57,6 +57,19 @@ I co-produced political and social reports and documentaries, including award-wi
 
 ---
 
+### 🛠 Skills & Certification
+
+| Skill Category                | Details                                  |
+|-------------------------------|------------------------------------------|
+| **Data ethics & AI ethics** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
+| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. feature selection, fitting), validation, auditing, ethical AI frameworks, and policy development. |
+| **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. |
+| **Programming**   | Foundational-intermediate skills in R and Python. |
+| **Data analysis**   | Textual and sentiment analysis, statistical inference, pattern correlation, visualization. |
+| **Journalism & media production** | Experienced in high-impact journalism and multimedia content production across top global media outlets, including fast-paced news gathering, writing, filming and non-linear editing. |
+
+---
+
 ### 📚 Publication & AI Research
 
 **Contributor & Research Group Member**:  
@@ -79,24 +92,19 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 ---
 
-### 🛠 Skills & Certification
-
-| Skill Category                | Details                                  |
-|-------------------------------|------------------------------------------|
-| **Data ethics & AI ethics** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
-| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. feature selection, fitting), validation, auditing, ethical AI frameworks, and policy development. |
-| **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. |
-| **Programming**   | Foundational-intermediate skills in R and Python. |
-| **Data analysis**   | Textual and sentiment analysis, statistical inference, pattern correlation, visualization. |
-| **Journalism & media production** | Experienced in high-impact journalism and multimedia content production across top global media outlets, including fast-paced news gathering, writing, filming and non-linear editing. |
-
----
 
 ### 🎓 Education
 
 *M. Sc. in Politics & Technology* (ongoing)  
 **Technical University of Munich**  
 My thesis focuses on responsible AI, exploring its impacts on global policy and ethical practices.
+
+Coursework highlights: 
+- **Project collaboration with OECD**: Framework proposal of sustainability-model card metrics through AI lifecycle in collaboration with the OECD Paris office.
+- **Applied AI and XAI**: Build and evaluate ML models in Python, e.g. mitigating bias in CV screening tools via data sampling, labeling, analysis, and explanation.
+- **Human-computer interaction via robots**: Delivered top-grade coursework on para-social relationships and anthropomorphism risks around social robots in Asia.
+- **Computational analysis**: Delivered top-grade project analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
+- **AI strategy and regulatory landscapes**: Knowledge of EU AI Act, GDPR; AI ethics guidelines (OECD, HLEC); AI strategies (EU, China, Japan, etc), including co-building an [open site](https://yufufi.github.io/tum_aipolicy/#/0/sum) comparing AI strategies of UK, EU, Mexico, China, and Japan.
 
 
 *Bachelor in Journalism, International Relations*  
