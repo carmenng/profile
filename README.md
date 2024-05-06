@@ -100,7 +100,7 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 My thesis focuses on responsible AI, exploring its impacts on global policy and ethical practices.
 
 Coursework highlights: 
-- **Project collaboration with OECD**: Framework proposal of AI sustainability model card metrics in collaboration with the OECD Paris office.
+- **AI metrics mapping with OECD**: Framework proposal of AI sustainability model card metrics in collaboration with OECD's Paris office.
 - **Applied AI and XAI**: Build and evaluate ML models in Python, e.g. mitigating bias in CV screening tools via data sampling, labeling, analysis, and explanation.
 - **Human-computer interaction via robots**: Delivered top-grade coursework on para-social relationships and anthropomorphism risks around social robots in Asia.
 - **Computational analysis**: Delivered top-grade project analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
