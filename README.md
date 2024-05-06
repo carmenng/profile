@@ -83,10 +83,12 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
-| **Data Ethics & AI Policy** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
-| **AI & Machine Learning**   | Expertise in ML algorithms, ethical AI frameworks, and policy development. |
-| **Programming**   | Beginner-intermediate skills in R and Python. |
-| **Journalism & Media Production** | Experienced in high-impact journalism and multimedia content production across top global media outlets. |
+| **Data ethics & AI ethics** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
+| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. feature selection, fitting), validation, auditing, ethical AI frameworks, and policy development. |
+| **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. |
+| **Programming**   | Foundational-intermediate skills in R and Python. |
+| **Data analysis**   | Textual and sentiment analysis, statistical inference, pattern correlation, visualization. |
+| **Journalism & media production** | Experienced in high-impact journalism and multimedia content production across top global media outlets, including fast-paced news gathering, writing, filming and non-linear editing. |
 
 ---
 
