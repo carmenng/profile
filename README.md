@@ -50,10 +50,10 @@ I lead global campaigns and develop industry-standard research content, e.g. whi
 📅 (2012 - 2014)  
 I scaled Reuters’ premier social media platform by curating breaking news content and discussions, producing live events and explainer content on Asian financial markets, and significantly growing the follower base.
 
-**Freelance Journalist**  
-**CNN, Al Jazeera, The Wall Street Journal**  
+**Freelance Journalist / Stringer / Co-Producer**  
+**The Wall Street Journal Asia, The Straits Times, CNN, Al-Jazeera English, SBS Australia**  
 📅 (2009 - 2010)  
-I co-produced political and social reports and documentaries, including award-winning coverage for SBS’s “Dateline”, focusing on human rights issues.
+I produced and co-produced political and social reports and documentaries, including award-winning coverage for SBS’s “Dateline”, focusing on human rights issues.
 
 ---
 
