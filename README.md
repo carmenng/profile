@@ -9,10 +9,10 @@ _Bridging inclusive AI development across Asia and the West_
 
 ### 👩🏼‍💻 AI Governance & Ethics Research
 
-- 🤖 [**AI Policy Research Group Member**](https://www.linkedin.com/company/center-for-ai-and-digital-policy/) — **Center for AI and Digital Policy, US** (2024- Present)
+- 🤖 **AI Policy Research Group Member** — **Center for AI and Digital Policy, US** (2024- Present)
 - 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
-- 📚 Co-authored for the [**MIT Science Policy Review**](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/) on the ethical and regulatory lanscape of emotion AI in biometric technologies (2022)
-- 📝 [**Research Sprint Fellow**](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world) (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
+- 📚 Co-authored for the **MIT Science Policy Review** on the ethical and regulatory lanscape of emotion AI in biometric technologies (2022)
+- 📝 **Research Sprint Fellow** (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
 ### 📱 Climate Technology Communications
 - 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. and AI in urban infrastructure. Key deliverables include working with startups and companies across US, EMEA and APAC regions to craft go-to-market narratives and content strategy, with a focus on the dual environmental and economic impacts of carbon removal, urban decarbonization, renewables integration, and e-mobility infrastructure.
