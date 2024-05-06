@@ -41,7 +41,7 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2022 - Present)  
-I lead global campaigns and develop industry-standard research content, e.g. white papers and insight studies, for climate technologies and AI use cases in smart infrastructure across global markets. A key focus has been working with cross-sectoral companies around the globe to craft go-to-market narratives that explain the environmental and economic impacts of carbon removal, data-driven decarbonization, renewables integration, and e-mobility infrastructure.
+I lead global campaigns and develop industry-standard research content, e.g. white papers and insight studies, for climate technologies and AI use cases in smart infrastructure, such as carbon removal, data-driven decarbonization, renewables integration, and e-mobility infrastructure.
 
 📅 (2014 - 2020) Previous regional roles with an EMEA focus with Siemens include: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation 
 
