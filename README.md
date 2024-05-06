@@ -20,7 +20,7 @@ _Bridging inclusive AI development across Asia and the West_
 
 ### 🎥 Journalism
 - 📝 **Former community editor** at **Reuters News**, with a breaking news curation role for pan-Asia news
-- 🎙️ Hong Kong-based **freelance co-producer, stringer, and journalist** for **The Wall Street Journal Asia**'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE)
+- 🎙️ Formerly Hong Kong-based **freelance reporter, co-producer, and stringer** for **The Wall Street Journal**'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE)
 - 🎥 Co-produced award-winning documentaries on Hong Kong's urban poverty for **SBS Australia**'s "Dateline"
 - 📺 Former news intern at **Bloomberg News** and **CNN International**
   
