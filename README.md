@@ -24,7 +24,7 @@ _Bridging inclusive AI development across Asia and the West_
 - 📺 Former news intern at **Bloomberg News** and **CNN International**
   
 ### 🌍 Intercultural social innovation
-- Trilingual fluency in **Cantonese, Mandarin, English**, intermediate **Japanese**, beginner's level **German**.
+- Trilingual fluency in **Cantonese, Mandarin, English**, intermediate **Japanese**, foundational **German**.
 - Co-founder of **PositiveBlockchain**, a cross-cultural, decentralised non-profit organisation researching blockchain use cases for the UN Sustainable Development Goals across Europe and Asia.
 
 
