@@ -74,7 +74,7 @@ I produced and co-produced political and social reports and documentaries, inclu
 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
-| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. data preprocessing, PCA, feature selection, fitting), validation, auditing, ethical review. |
+| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. data preprocessing, PCA, feature selection, dimension reduction, fitting), validation, auditing, ethical review. |
 | **Algorithms**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
 | **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. Understanding of FaCCT challenges, e.g. LLMs bias benchmarking. |
 | **Programming**   | Foundational-intermediate skills in R and Python (e.g. PyTorch, NumPy, Pandas, sckit-learn) |
