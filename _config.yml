@@ -12,3 +12,8 @@ plugins:
   - jekyll-seo-tag # Add SEO plugin
 
 email: carmen.ng@tum.de # Allow visitors to contact you
+
+# Navigation links
+header_pages:
+  - index.md
+  - my-work.md
