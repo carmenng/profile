@@ -6,9 +6,14 @@ _Bridging inclusive AI development across Asia and the West_
 [Email](mailto:carmen.ng@tum.de) / [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2Fcarmen_ngkaman) / [LinkedIn](https://www.linkedin.com/in/ngcarmen/) / [Google Scholar](https://scholar.google.com/citations?user=CRGNIPgAAAAJ&hl=en#d=gsc_md_cod&t=1714929260684&u=%2Fcitations%3Fview_op%3Dlist_suggested_coauthors%26hl%3Den%26json%3D%26user%3DCRGNIPgAAAAJ%23t%3Dgsc_cod_sugg) 
 
 ---
+
+I bring a unique mix of expertise in **AI research and data science** (CAIDP, ODI, MIT), **communications** specializing in digital technologies (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
+
 ## Highlights:
 
 ### 👩🏼‍💻 AI Governance & Ethics Research
+
+I have produced academic, non-profit research outputs, and industry credentials that bridge the technical, regulatory, and ethical aspects of AI, building on knowledge of AI models and algorithms, including upstream and downstream risks in applied contexts.
 
 - 🤖 **[AI Policy Research Group Member](https://www.linkedin.com/company/center-for-ai-and-digital-policy/)** — **Center for AI and Digital Policy, US** (2024- Present)
 - 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
@@ -19,7 +24,7 @@ _Bridging inclusive AI development across Asia and the West_
 - 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. and AI in urban infrastructure, in collaboration with startups and companies across the US, EMEA and APAC regions.
 
 ### 🎥 Journalism
-- 📝 **Former community editor** at **Reuters News**, with a breaking news curation role for pan-Asia news
+- 📝 **Former community editor** at **Reuters News**, with a user-centric breaking news curation role for pan-Asia news
 - 🎙️ Formerly Hong Kong-based **freelance reporter, co-producer, and stringer** for **The Wall Street Journal**'s "China Real Time Report", **The Straits Times** (Singapore), **NHK World** (Japan), **Al-Jazeera English** (UAE)
 - 🎥 Co-produced award-winning documentaries on Hong Kong's urban poverty for **SBS Australia**'s "Dateline"
 - 📺 Former news intern at **Bloomberg News** and **CNN International**
@@ -42,14 +47,14 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2022 - Present)  
-I lead global campaigns and develop industry-standard research content, e.g. white papers and insight studies, for climate technologies and AI use cases in smart infrastructure, such as carbon removal, data-driven decarbonization, renewables integration, and e-mobility infrastructure.
+I combine editorial, technical and analytics roles - leading global campaigns and developing industry-standard research content, e.g. white papers and insight studies, creating multimedia content, forging partnerhsips, and leading analytics as campaign owner for climate technologies and AI use cases in smart infrastructure, such as carbon removal, data-driven decarbonization, renewables integration, and e-mobility infrastructure.
 
 📅 (2014 - 2020) Previous regional roles with an EMEA focus with Siemens include: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation 
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
 📅 (2012 - 2014)  
-I scaled Reuters’ premier social media platform by curating breaking news content and discussions, producing live events and explainer content on Asian financial markets, and significantly growing the follower base.
+I scaled Reuters’ premier social media platform by curating breaking news content and discussions, producing live events and explainer content on Asian financial markets. By aligned with real-time business and technology topics and readers’ interests, I helped grow the follower base significantly. 
 
 **Freelance Journalist / Stringer / Co-Producer**  
 **The Wall Street Journal Asia, The Straits Times, CNN, Al-Jazeera English, SBS Australia**  
@@ -62,10 +67,11 @@ I produced and co-produced political and social reports and documentaries, inclu
 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
-| **Data ethics & AI ethics** | Recognised by the Open Data Institute as proficient in ethical oversight and AI governance in data practices. |
+| **Data ethics & AI ethics** | Recognised by the Open Data Institute as proficient in AI model anaylsis and ethical oversight in AI practices. |
 | **Machine learning**   | Knowledge of ML algorithms and model building (e.g. feature selection, fitting), validation, auditing, ethical AI frameworks, and policy development. |
-| **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. |
-| **Programming**   | Foundational-intermediate skills in R and Python. |
+| **Algorithms**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
+| **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. Understanding of FaCCT challenges, e.g. LLMs bias benchmarking. |
+| **Programming**   | Foundational-intermediate skills in R and Python (e.g. PyTorch, NumPy, Pandas, sckit-learn) |
 | **Data analysis**   | Textual and sentiment analysis, statistical inference, pattern correlation, visualization. |
 | **Journalism & media production** | Experienced in high-impact journalism and multimedia content production across top global media outlets, including fast-paced news gathering, writing, filming and non-linear editing. |
 
@@ -98,13 +104,13 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 *M. Sc. in Politics & Technology* (ongoing)  
 **Technical University of Munich**  
-My thesis focuses on responsible AI, exploring its impacts on global policy and ethical practices.
+My thesis focuses on responsible AI, exploring cross-cultural alignment of LLMs.
 
 Coursework highlights: 
+- **Applied AI/ML projects**: Built, validated, and tested ML models, e.g. mitigating bias in CV filtering model in Python, via data sampling, labeling, analysis, and explanation, including ethical review within the EU AI Act.
 - **AI metrics mapping with OECD**: Framework proposal of AI sustainability model card metrics co-developed with OECD's Paris office.
-- **Applied AI and XAI**: Build and evaluate ML models in Python, e.g. mitigating bias in CV screening tools via data sampling, labeling, analysis, and explanation.
 - **Human-computer interaction via robots**: Delivered top-grade coursework on para-social relationships and anthropomorphism risks around social robots in Asia.
-- **Computational analysis**: Delivered top-grade project analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
+- **Computational analysis**: Built cross-team computational study in R, e.g. analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
 - **AI strategy and regulatory landscapes**: Knowledge of EU AI Act, GDPR; AI ethics guidelines (OECD, HLEC); AI strategies (EU, China, Japan, etc), including co-building an [open site](https://yufufi.github.io/tum_aipolicy/#/0/sum) comparing AI strategies of UK, EU, Mexico, China, and Japan.
 
 
