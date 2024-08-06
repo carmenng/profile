@@ -47,7 +47,7 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2022 - Present)  
-I combine editorial, technical and analytics roles - leading global campaigns and developing industry-standard research content, e.g. white papers and insight studies, creating multimedia content, forging partnerhsips, and leading analytics as campaign owner for climate technologies and AI use cases in smart infrastructure, such as carbon removal, data-driven decarbonization, renewables integration, and e-mobility infrastructure.
+I combine editorial, technical and analytics roles - leading global campaigns and developing industry-standard research content, e.g. white papers, creating multimedia content, forging partnerhsips, and leading analytics as campaign owner for climate technologies and AI in smart infrastructure, such as carbon removal, energy transition, and e-mobility.
 
 📅 (2014 - 2020) Previous regional roles with an EMEA focus with Siemens include: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation 
 
@@ -62,12 +62,18 @@ I scaled Reuters’ premier social media platform by curating breaking news cont
 I produced and co-produced political and social reports and documentaries, including award-winning coverage for SBS’s “Dateline”, focusing on human rights issues.
 
 ---
+### 🏅 Certification
 
-### 🛠 Skills & Certification
+** Certified Data Ethics Professional & Facilitator**, Open Data Institute, 2022
+- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as proficient in helping public- and private-sector teams address potential harms in AI/ML applications.
+- Produced in-depth study on the UK’s predictive policing ML model.
+
+---
+
+### 🛠 Skills
 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
-| **Data ethics & AI ethics** | Recognised by the Open Data Institute as proficient in AI model anaylsis and ethical oversight in AI practices. |
 | **Machine learning**   | Knowledge of ML algorithms and model building (e.g. feature selection, fitting), validation, auditing, ethical AI frameworks, and policy development. |
 | **Algorithms**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
 | **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. Understanding of FaCCT challenges, e.g. LLMs bias benchmarking. |
@@ -104,12 +110,12 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 
 *M. Sc. in Politics & Technology* (ongoing)  
 **Technical University of Munich**  
-My thesis focuses on responsible AI, exploring cross-cultural alignment of LLMs.
+My thesis focuses on responsible AI and the cross-cultural alignment challenges of LLMs.
 
-Coursework highlights: 
+Highlights: 
 - **Applied AI/ML projects**: Built, validated, and tested ML models, e.g. mitigating bias in CV filtering model in Python, via data sampling, labeling, analysis, and explanation, including ethical review within the EU AI Act.
-- **AI metrics mapping with OECD**: Framework proposal of AI sustainability model card metrics co-developed with OECD's Paris office.
-- **Human-computer interaction via robots**: Delivered top-grade coursework on para-social relationships and anthropomorphism risks around social robots in Asia.
+- **AI metrics mapping with OECD**: Proposal of AI sustainability model card metrics co-developed with OECD's Paris office.
+- **Human-robot interaction**: Delivered top-grade coursework on para-social relationships and anthropomorphism risks around social robots in Asia.
 - **Computational analysis**: Built cross-team computational study in R, e.g. analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
 - **AI strategy and regulatory landscapes**: Knowledge of EU AI Act, GDPR; AI ethics guidelines (OECD, HLEC); AI strategies (EU, China, Japan, etc), including co-building an [open site](https://yufufi.github.io/tum_aipolicy/#/0/sum) comparing AI strategies of UK, EU, Mexico, China, and Japan.
 
