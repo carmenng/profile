@@ -64,8 +64,8 @@ I produced and co-produced political and social reports and documentaries, inclu
 ---
 ### 🏅 Certification
 
-** Certified Data Ethics Professional & Facilitator**, Open Data Institute, 2022
-- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as proficient in helping public- and private-sector teams address potential harms in AI/ML applications.
+**Certified Data Ethics Professional & Facilitator**, Open Data Institute, 2022
+- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as [proficient in helping diverse teams address potential harms in AI/ML applications](https://theodi.org/profile/carmen-ng/), ranging from recruitment, policing, education, gaming, etc.
 - Produced in-depth study on the UK’s predictive policing ML model.
 
 ---
@@ -74,7 +74,7 @@ I produced and co-produced political and social reports and documentaries, inclu
 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
-| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. feature selection, fitting), validation, auditing, ethical AI frameworks, and policy development. |
+| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. data preprocessing, PCA, feature selection, fitting), validation, auditing, ethical review. |
 | **Algorithms**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
 | **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. Understanding of FaCCT challenges, e.g. LLMs bias benchmarking. |
 | **Programming**   | Foundational-intermediate skills in R and Python (e.g. PyTorch, NumPy, Pandas, sckit-learn) |
