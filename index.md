@@ -9,7 +9,7 @@ _Bridging inclusive AI development across Asia and the West_
 
 I bring a unique mix of expertise in **AI research and data science** (CAIDP, ODI, MIT), **communications** specializing in digital technologies (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
 
-I also host **learning workshops on AI risks and governance** for product, communications and governance teams, as well as for public education (in both Chinese and English), where I tailor the materials to suit the specific audience, their cultural language and sector domains (energy, smart cities, media). Whether it's educating corporate teams on ethical AI practices or informing the public about AI risks in real-world examples, I adapt my approach to meet the needs of each group, promoting intercultural AI development. Please reach out if you have any enquiries.
+I also host **learning workshops on AI risks and governance** for product, communications and governance teams, as well as for public education in both Chinese and English. Whether it's educating corporate teams on ethical AI practices or informing the public about AI risks in real-world examples, I tailor the materials to suit the specific audience, cultural language and sector domains (energy, smart cities, media), promoting intercultural AI development. Please reach out if you have any enquiries.
 
 ---
 
