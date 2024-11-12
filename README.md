@@ -1,5 +1,5 @@
 
-## AI ethics researcher | Senior AI & tech comms lead | Former breaking news journalist
+## Responsible AI and AI policy researcher | Senior tech comms lead | Former breaking news journalist
 
 _Bridging inclusive AI development across Asia and the West_
 
