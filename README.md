@@ -1,5 +1,5 @@
 
-## AI ethics researcher | Senior tech comms lead | Former breaking news journalist
+## AI ethics researcher | Senior AI & tech comms lead | Former breaking news journalist
 
 _Bridging inclusive AI development across Asia and the West_
 
@@ -8,7 +8,7 @@ _Bridging inclusive AI development across Asia and the West_
 
 ---
 
-I bring a unique mix of expertise in **AI research and data science** (CAIDP, ODI, MIT), **communications** specializing in digital technologies (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
+I bring a unique mix of expertise in **AI research and data science** (CAIDP, ODI, MIT), **communications** specializing in AI and digital innovation (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
 
 I also host **learning workshops on AI risks and governance** for product, communications and governance teams, as well as for public education in both Chinese and English. Whether it's educating corporate teams on ethical AI practices or informing the public about AI risks in real-world examples, I tailor the materials to suit the specific audience, cultural language and sector domains (energy, smart cities, media), promoting intercultural AI development. Please reach out if you have any enquiries.
 
@@ -23,10 +23,11 @@ I have produced academic, non-profit research outputs, and industry credentials 
 - 🤖 **[AI Policy Research Group Member](https://www.linkedin.com/company/center-for-ai-and-digital-policy/)** — **Center for AI and Digital Policy, US** (2024- Present)
 - 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
 - 📚 Co-authored for the peer-reviewed **[MIT Science Policy Review](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)** on the ethical and regulatory challenges of emotion AI in biometric technologies (2022)
-- 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** (Cohort 2021) on Digital Self-Determination, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
+- 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** (Cohort 2021) on international AI governance analysis and digital rights frameworks, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
-### 📱 Climate Technology Communications
-- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on climate tech. and AI in urban infrastructure, in collaboration with startups and companies across the US, EMEA and APAC regions.
+### 📱 AI and Climate Technology Communications
+- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy, healthcare, transport and industry, in collaboration with startups and companies across the US, EMEA and APAC regions. 
+
 
 ### 🎥 Journalism
 - 📝 **Former community editor** at **Reuters News**, with a user-centric breaking news curation role for pan-Asia news
@@ -52,25 +53,28 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2022 - Present)  
-I combine editorial, technical and analytics roles - leading global campaigns and developing industry-standard research content, e.g. white papers, creating multimedia content, forging partnerhsips, and leading analytics as campaign owner for climate technologies and AI in smart infrastructure, such as carbon removal, energy transition, and e-mobility.
+I combine editorial, technical and analytics roles - leading cross-market campaigns that position complex AI and digital solutions — from climate resilience, digital twins, e-mobility, to healthcare innovation — as vital to global and local societal impact, driving double-digit million reach across earned and owned media. 
 
-📅 (2014 - 2020) Previous regional roles with an EMEA focus with Siemens include: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation 
+My work blends impactful media relations, social campaigns, and editorial narratives informed by my parallel expertise as an AI policy researcher and AI ethics trainer. In contrast to generic communications, I produce industry-standard white papers and snappy social content that leverage my expertise in global AI governance within EU institutions and beyond, and ML/DL/GenAI model impacts in diverse applied contexts.
+
+📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA 
+over the course of 25+ technology projects in former EMEA roles with Siemens include: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation 
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
 📅 (2012 - 2014)  
-I scaled Reuters’ premier social media platform by curating breaking news content and discussions, producing live events and explainer content on Asian financial markets. By aligned with real-time business and technology topics and readers’ interests, I helped grow the follower base significantly. 
+I scaled the following base of Reuters’ premier social media platform by 300% through curating breaking news content and discussions, producing live events and explainer content on Asian financial markets and top policies, with real-time alignment to timely topics and audiences’ interests.
 
 **Freelance Journalist / Stringer / Co-Producer**  
 **The Wall Street Journal Asia, The Straits Times, CNN, Al-Jazeera English, SBS Australia**  
 📅 (2009 - 2010)  
-I produced and co-produced political and social reports and documentaries, including award-winning coverage for SBS’s “Dateline”, focusing on human rights issues.
+I produced and co-produced political and social reports and documentaries about Hong Kong for audiences in APAC and the Middle East, including award-winning coverage for SBS’s “Dateline”, focusing on human rights issues.
 
 ---
 ### 🏅 Certification
 
 **Certified Data Ethics Professional & Facilitator**, Open Data Institute, 2022
-- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as [proficient in helping diverse teams address potential harms in AI/ML applications](https://theodi.org/profile/carmen-ng/), ranging from recruitment, policing, education, gaming, etc.
+- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as [proficient in guiding organisations on ethical AI practices and addressing potential harms in AI/ML applications](https://theodi.org/profile/carmen-ng/), ranging from recruitment, policing, education, gaming, etc.
 - Produced in-depth study on the UK’s predictive policing ML model.
 
 ---
