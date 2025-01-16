@@ -55,11 +55,11 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Siemens**, Germany  
 📅 (2020 - Present)  
 I lead editorial, technical, and analytical efforts to communicate the impact of financing transformative technologies through activities such as: 
-- **Crafting communications strategy and narratives** for multi-vertical campaigns
+- **Crafting communications strategy, narratives, and amplification efforts** for multi-vertical campaigns
 - **Managing speaker placements and event partnerships**
-- **Producing thought leadership content such as blogs, research papers, and video explainers** on technology and financing topics for partnered or owned channels
+- **Producing thought leadership content such as blogs, research papers, and video explainers** for partnered or owned channels
 
-**What I emphasize:**
+**What makes this fun (really!):**
 - Devising narratives that **bridge technical, social, and financial topics** and tailoring them for diverse regions 
 - Positioning complex AI and digital solutions — from **climate resilience, urban transformation, digital twins, e-mobility, to healthcare innovation** — as critical to global and local societal impacts
 - **Driving significant engagmenet**, including increased reach and downloads across earned and owned media, through content formats spanning  social reels and research papers
