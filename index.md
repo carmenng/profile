@@ -83,7 +83,8 @@ I lead strategic efforts to communicate Siemens' financing for transformative te
 ### 🏅 Certification
 
 **Certified Data Ethics Professional & Facilitator**, Open Data Institute, 2022
-- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as [proficient in guiding organisations on ethical AI practices and addressing potential harms in AI/ML applications](https://theodi.org/profile/carmen-ng/), ranging from recruitment, policing, education, gaming, etc.
+- Certified by the UK’s ODI, founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt, as **[proficient in guiding organisations on ethical AI practices](https://theodi.org/profile/carmen-ng/)**
+- Expertise in addressing **potential harms in AI/ML applications** across sectors such as recruitment, policing, education, and gaming.
 - Produced in-depth study on the UK’s predictive policing ML model.
 
 ---
@@ -106,21 +107,20 @@ I lead strategic efforts to communicate Siemens' financing for transformative te
 ### 📚 Publication & AI Research
 
 **Contributor & Research Group Member**:  
-_**"Artificial Intelligence and Democratic Values 2023 AI Index", Center for AI and Digital Policy**_ (2024)
-- Co-developed [The 2023 AI and Democratic Values Index](http://www.caidp.org/reports/aidv-2023), a comprehensive review of AI policies across 80 countries, including governance practices on generative AI, the EU AI Act, African Union's AI proposal, the UNESCO Recommendation on AI Ethics, etc. 
+_**"Artificial Intelligence and Democratic Values 2023 AI Index"
+Center for AI and Digital Policy**_ (2024)
+- Co-developed [The 2023 AI and Democratic Values Index](http://www.caidp.org/reports/aidv-2023), a  review of AI policies across 80 countries, covering:
+- Governance practices on generative AI; the EU AI Act, African Union's AI proposal, the UNESCO Recommendation on AI Ethics. 
 
 **Co-Author**:  
 _**MIT Science Policy Review**_ (2022)  
-Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"Should machines be allowed to ‘read our minds’? Uses and regulation of biometric techniques that attempt to infer mental states."_ MIT Science Policy Review 3, 112-121 (2022). [![DOI](https://img.shields.io/badge/DOI-10.38105/spr.qy2iibrk72-blue.svg)](https://doi.org/10.38105/spr.qy2iibrk72)
-
-**Research Assistant**  
-**TUM School of Social Sciences & Technology** (2022) 
-- Assisted research focused on the role of law in shaping technology design, particularly in relation to democracy and human rights.
+- Co-authored: *"Should machines be allowed to ‘read our minds’? Uses and regulation of biometric techniques that attempt to infer mental states."*
+- Published in the peer-reviewed **MIT Science Policy Review, 3, 112-121** (2022). [![DOI](https://img.shields.io/badge/DOI-10.38105/spr.qy2iibrk72-blue.svg)](https://doi.org/10.38105/spr.qy2iibrk72)
 
 **Research Sprint Fellow:**  
 **Berkman Klein Center for Internet & Society, Harvard University**  (2021)
-- One of the global early-scholar fellows from 21 countries in the Spring 2021 Research Sprint on ["Digital Self-Determination: Towards Autonomy and Agency in the Digital Age”](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)
-- Co-produced a repository that includes case studies and syllabus on AI governance and digital rights for open use by educational programs around the world.
+- Selected as one of the global fellows from 21 countries on the research cohort on ["Digital Self-Determination: Towards Autonomy and Agency in the Digital Age”](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)
+- **Co-produced an open syllabus on AI governance and digital rights** for educational use.
 
 
 ---
@@ -136,8 +136,8 @@ Highlights:
 - **Applied AI/ML**: Built and tested ML models addressing bias in CV filtering
 - **AI & sustainanility**:  Co-developed AI sustainability model metrics with OECD Paris office 
 - **Human-robot interaction**: Delivered top-grade coursework on para-social relationships and anthropomorphism risks around social robots in Asia.
-- **Computational analysis**: Built cross-team computational study in R, e.g. analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
-- **AI strategy and regulatory landscapes**: Knowledge of EU AI Act, GDPR; AI ethics guidelines (OECD, HLEC); AI strategies (EU, China, Japan, etc), including co-building an [open site](https://yufufi.github.io/tum_aipolicy/#/0/sum) comparing AI strategies of UK, EU, Mexico, China, and Japan.
+- **Computational analysis**: Built cross-team study in R, e.g. analyzing [gender dynamics in Twitter data and political attitudes in speeches via quantitative sentiment and textual analysis in R](https://drive.google.com/file/d/1ibqPjNrFAcBQ39tpZyjABdiTuI0nwXr-/view).
+- **AI strategy and regulatory landscapes**: Proficient in EU AI Act, GDPR, AI ethics guidelines (OECD, HLEC); AI strategies (EU, China, Japan, etc), including co-building an [open site](https://yufufi.github.io/tum_aipolicy/#/0/sum) comparing global AI strategies
 
 
 *Bachelor in Journalism, International Relations*  
