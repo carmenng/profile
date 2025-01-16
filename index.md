@@ -12,7 +12,7 @@ I bring a unique mix of expertise in **AI research** (Center for AI & Digital Po
 
 - Collaborate with data scientists/business teams on AI projects  
 - Anticipate and address policy considerations in AI and sustainability
-- Lead cross-team innovation initiatives  
+- Facilitate cross-team and cross-cultural innovation initiatives  
 - Translate complex topics into impactful narratives for diverse audiences  
 
 I also host **learning workshops on AI risks and governance** (in Chinese & English) for corporate teams, public education, intercultural development. I tailor the materials to suit the specific audience, cultural language and sector domains (energy, smart cities, media). Feel free to connect for inquiries 🙌
