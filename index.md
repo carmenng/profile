@@ -27,7 +27,7 @@ Produced academic, non-profit, and industry outputs that bridge technical, regul
 
 - 🤖 **[AI Policy Research Group Member](https://www.linkedin.com/company/center-for-ai-and-digital-policy/)** — **Center for AI and Digital Policy, US** (2024- Present)
 - 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
-- 📚 **Co-author — [MIT Science Policy Review](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)**: Published peer-reviewed research on the ethical and regulatory challenges of emotion AI in biometric technologies (2022)
+- 📚 **Co-author — [MIT Science Policy Review](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)**: Published peer-reviewed research on emotion AI in biometric technologies (2022)
 - 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** — **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** on international AI governance and digital rights frameworks (Cohort 2021)
 
 ### 📱 AI and Climate Technology Communications
