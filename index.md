@@ -26,7 +26,7 @@ I have produced academic, non-profit research outputs, and industry credentials 
 - 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** (Cohort 2021) on international AI governance analysis and digital rights frameworks, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
 ### 📱 AI and Climate Technology Communications
-- 👩🏼‍💻 **Senior technology communications lead** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy, healthcare, transport and industry, in collaboration with startups and companies across the US, EMEA and APAC regions. 
+- 👩🏼‍💻 **Senior communications expert** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy transition, transport, and industry, in collaboration with startups and companies across the US, EMEA and APAC regions. 
 
 
 ### 🎥 Journalism
