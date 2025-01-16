@@ -85,14 +85,16 @@ I produced and co-produced political and social reports and documentaries about 
 
 ### 🛠 Skills
 
-| Skill Category                | Details                                  |
-|-------------------------------|------------------------------------------|
-| **Machine learning**   | Knowledge of ML algorithms and model building (e.g. data preprocessing, PCA, feature selection, dimension reduction, fitting), validation, auditing, ethical review. |
-| **Algorithms**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
-| **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. Understanding of FaCCT challenges, e.g. LLMs bias benchmarking. |
-| **Programming**   | Foundational-intermediate skills in R and Python (e.g. PyTorch, NumPy, Pandas, sckit-learn) |
-| **Data analysis**   | Textual and sentiment analysis, statistical inference, pattern correlation, visualization. |
-| **Journalism & media production** | Experienced in high-impact journalism and multimedia content production across top global media outlets, including fast-paced news gathering, writing, filming and non-linear editing. |
+| **Core skills**          | **Description**                                                                                                                                             |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **AI & Machine Learning**   | Proficient in ML algorithms: preprocessing, PCA, feature selection, dimension reduction, fitting, model auditing, and ethical review.                 |
+|                              | Familiar with algorithms: regression, decision trees, random forests, K-means, KNNs, CNNs, GANs, etc.                                       |
+|                              | Knowledge of AI fairness techniques: de-biasing methods (randomization, counterfactual explanation), benchmarking challenges (LLMs bias).            |
+| **Programming & Data Analysis** | Foundational to intermediate skills in Python (e.g., PyTorch, NumPy, Pandas, scikit-learn) and R.                                                  |
+|                              | Textual and sentiment analysis, data visualization.                                                            |
+| **Journalism & Media Production** | Extensive experience in content creation and multimedia production for global media outlets.                                                    |
+|                              | Expertise in news writing, fact-checking, filming, and non-linear editing.                                                                                         |
+
 
 ---
 
