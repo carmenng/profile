@@ -115,7 +115,7 @@ Vidal Bustamante, C. M., Alama-Maruta, K., **Ng, C.**, Coppersmith, D. D. L. _"S
 **Research Sprint Fellow:**  
 **Berkman Klein Center for Internet & Society, Harvard University**  (2021)
 - One of the global early-scholar fellows from 21 countries in the Spring 2021 Research Sprint on ["Digital Self-Determination: Towards Autonomy and Agency in the Digital Age”](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)
-- The cohort worked with peers and experts from around the globe to produce a living repository that includes readings, case studies, readings, and open syllabus on AI governance and digital rights for open use by educational programs around the world.
+- Co-produced a repository that includes case studies and syllabus on AI governance and digital rights for open use by educational programs around the world.
 
 
 ---
