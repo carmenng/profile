@@ -3,7 +3,7 @@
 
 _Bridging inclusive AI development across Asia and the West_
 
-[Email](mailto:carmen.ng@tum.de) / [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2Fcarmen_ngkaman) / [LinkedIn](https://www.linkedin.com/in/ngcarmen/) / [Google Scholar](https://scholar.google.com/citations?user=CRGNIPgAAAAJ&hl=en#d=gsc_md_cod&t=1714929260684&u=%2Fcitations%3Fview_op%3Dlist_suggested_coauthors%26hl%3Den%26json%3D%26user%3DCRGNIPgAAAAJ%23t%3Dgsc_cod_sugg) / <a href="Library.html">Library</a>
+[Email](mailto:carmen.ng@tum.de) / [Twitter](https://twitter.com/i/flow/login?redirect_after_login=%2Fcarmen_ngkaman) / [LinkedIn](https://www.linkedin.com/in/ngcarmen/) / [Google Scholar](https://scholar.google.com/citations?user=CRGNIPgAAAAJ&hl=en#d=gsc_md_cod&t=1714929260684&u=%2Fcitations%3Fview_op%3Dlist_suggested_coauthors%26hl%3Den%26json%3D%26user%3DCRGNIPgAAAAJ%23t%3Dgsc_cod_sugg)
 
 
 ---
@@ -57,12 +57,12 @@ I combine editorial, technical and analytics roles - leading cross-market campai
 
 Uniquely informed by my expertise as an AI policy researcher, I produce industry-standard white papers and snappy social content that position the socio-economic impact of Siemens' AI and digital innovation, leveraging my expertise in global AI governance within EU institutions and beyond, and ML/DL/GenAI model impacts in diverse applied contexts.
 
-📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA 
+📅 **(2014 - 2020)** Previously drove 200%+ sustained increase in reach and engagement across EMEA 
 over the course of 25+ technology projects in former roles with Siemens, including: Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
-📅 (2012 - 2014)  
+📅 (2010 - 2014)  
 I scaled the following base of Reuters’ premier social media platform by 300% through curating breaking news content and discussions, producing live events and explainer content on Asian financial markets and top policies, with real-time alignment to timely topics and audiences’ interests.
 
 **Freelance Journalist / Stringer / Co-Producer**  
