@@ -28,7 +28,7 @@ I have produced academic, non-profit research outputs, and industry credentials 
 ### 📱 AI and Climate Technology Communications
 - 👩🏼‍💻 **Senior communications expert** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy transition, urban infrastructure, transport, and industry. 
 
-- My role spans crafting **communications strategy for multiple verticals** (e.g. data centers, F&B, hospitals, campuses, industry, etc) and **tailored narratives** for emerging technologies (e.g. carbon removal), managing **stakeholders and event engagement**, and producing **short- and long-form content that blend research rigor and editorial flair** for partnered or owned channels.
+- My role spans crafting **communications strategy for multiple verticals** (e.g. data centers, F&B, hospitals, campuses, industry, etc) and **tailored narratives** for emerging technologies (e.g. carbon removal), managing **stakeholders** and **event engagement**, and producing **short- and long-form content** that blend **research rigor and editorial flair** for partnered or owned channels.
 
 ### 🎥 Journalism
 - 📝 **Former community editor** at **Reuters News**, with a user-centric breaking news curation role for pan-Asia news
@@ -66,8 +66,8 @@ I lead editorial, technical, and analytical efforts to communicate the impact of
 - **Leveraging my parallel expertise in AI research** within EU markets and beyond, and ML/DL/GenAI model impacts in applied contexts
 
 **Highlights include:**
-- **Led-wrote white papers on thought leadership topics** [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html))
-- **Crafted editorial blogs, led speech writing and podcast production** on smart infrastructure, such as [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
+- **Led-wrote thought leadership white papers on technology** [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)
+- **Crafted editorial blogs, led speech writing and podcast production** on the impact of smart infrastructure, such as [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
 - **Created partnered content** on sustainable infrastructure with media outlets (e.g. NYT, WSJ)
 - **Produced snappy social content** that boosted social following consistently
 
