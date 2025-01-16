@@ -93,7 +93,7 @@ I produced and co-produced political and social reports and documentaries about 
 | **Programming & Data Analysis** | Foundational to intermediate skills in Python (e.g., PyTorch, NumPy, Pandas, scikit-learn) and R.                                                  |
 |                              | Textual and sentiment analysis, data visualization.                                                            |
 | **Journalism & Media Production** | Extensive experience in content creation and multimedia production for global media outlets.                                                    |
-|                              | Expertise in news writing, fact-checking, filming, and non-linear editing.                                                                                         |
+|                              | News writing, fact-checking, filming, and non-linear editing.                                                                                         |
 
 
 ---
