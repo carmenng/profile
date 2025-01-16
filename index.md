@@ -54,29 +54,20 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2020 - Present)  
-I lead editorial, technical, and analytical efforts to communicate the impact of financing transformative technologies through activities such as: 
-- **Crafting communications strategy, narratives, and amplification efforts** for multi-vertical campaigns
-- **Managing speaker placements and event partnerships**
-- **Producing thought leadership content such as blogs, research papers, and video explainers** for partnered or owned channels
+I lead strategic efforts to communicate Siemens' financing for transformative technologies through:
 
-**What makes this fun (really!):**
-- Devising narratives that **bridge technical, social, and financial topics** and tailoring them for diverse regions 
-- Positioning complex AI and digital solutions — from **climate resilience, urban transformation, digital twins, e-mobility, to healthcare innovation** — as critical to global and local societal impacts
-- **Driving significant engagmenet**, including increased reach and downloads across earned and owned media, through content formats spanning  social reels and research papers
-- **Leveraging my parallel expertise in AI research** within EU markets and beyond, and ML/DL/GenAI model impacts in applied contexts
-
-**Highlights include:**
-- **Led-wrote thought leadership white papers on technology** [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)
-- **Crafted editorial blogs, led speech writing and podcast production** on the impact of smart infrastructure, such as [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
-- **Created partnered content** on sustainable infrastructure with media outlets (e.g. NYT, WSJ)
-- **Produced snappy social content** that boosted social following consistently
+- **Campaign strategy**: Developed narratives for multi-vertical campaigns (e.g., digital twins, e-mobility, healthcare, smart cities, climate resilience), bridging technical, social, and financial topics
+- **Event partnerships & speaker placement**: Managed stakeholder relationships and global engagements
+- **Content creation**: Authored thought leadership white papers ([Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)), and created partnered content with NYT and WSJ
+- **Content formats**: Produced blogs, research papers, and social reels, driving significant engagement (200%+ increase across EMEA). Examples include [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
 
 📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
 📅 (2010 - 2014)  
-I scaled the following base of Reuters’ premier social media platform by 300% through curating breaking news content and discussions, producing live events and explainer content on Asian financial markets and top policies, with real-time alignment to timely topics and audiences’ interests.
+- Scaled Reuters premium social media platforms following by 300%.
+- Produced live events and breaking news coverage on Asian financial markets and top global policies, aligning with audience needs across Asia
 
 **Freelance Journalist / Stringer / Co-Producer**  
 **The Wall Street Journal Asia, The Straits Times, CNN, Al-Jazeera English, SBS Australia**  
