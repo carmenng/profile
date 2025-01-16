@@ -8,7 +8,7 @@ _Bridging inclusive AI development across Asia and the West_
 
 ---
 
-I bring a unique mix of expertise in **AI research and data science** (Center for AI & Digital Policy, ODI, MIT), **communications** specializing in AI and digital innovation (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
+I bring a unique mix of expertise in **AI research and data science** (Center for AI & Digital Policy, ODI, MIT), **thought leadership communications** specializing in AI and digital innovation (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
 
 I also host **learning workshops on AI risks and governance** for product, communications and governance teams, as well as for public education in both Chinese and English. Whether it's educating corporate teams on ethical AI practices or informing the public about AI risks in real-world examples, I tailor the materials to suit the specific audience, cultural language and sector domains (energy, smart cities, media), promoting intercultural AI development. Please reach out if you have any enquiries.
 
@@ -53,11 +53,11 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2020 - Present)  
-I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies. 
+I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies through diverse activities, ranging from **crafting communications strategy** for multi-vertical campaigns, **managing speaker placements and event partnerships**, to **producing thought leadership blogs, research papers, and video explainers** that align with strategic narratives. 
 
-I lead cross-market thought leadership campaigns that position complex AI and digital solutions — from climate resilience, digital twins, e-mobility, to healthcare innovation — as vital to global and local societal impact, driving reach and downloads across earned and owned media.
+Particularly, I have demonstrated strong storyteling and stakeholder collaboration skills while leading **cross-market, cross-domain campaigns** that position complex AI and digital solutions — from **climate resilience, digital twins, e-mobility, to healthcare innovation** — as vital to global and local societal impact, driving reach and downloads across earned and owned media.
 
-Specific examples include authoring white papers (i.e. [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)) and producing snappy social content that position the socio-economic impact of Siemens' innovation, leveraging my parallel expertise in AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
+Specific examples include **authoring white papers** (i.e. [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)), **creating partnered content with media outlets**, and **producing snappy social content** that position the socio-economic impact of Siemens' innovation, leveraging my parallel expertise in AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
 
 📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
 
