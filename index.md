@@ -53,9 +53,11 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2020 - Present)  
-I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies. I lead cross-market thought leadership campaigns that position complex AI and digital solutions — from climate resilience, digital twins, e-mobility, to healthcare innovation — as vital to global and local societal impact, driving reach and downloads across earned and owned media through media relations and social campaigns. 
+I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies. 
 
-Uniquely informed by my expertise as an AI policy researcher, I produce white papers (i.e. [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)) and snappy social content that position the socio-economic impact of Siemens' innovation, leveraging my expertise in global AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
+I lead cross-market thought leadership campaigns that position complex AI and digital solutions — from climate resilience, digital twins, e-mobility, to healthcare innovation — as vital to global and local societal impact, driving reach and downloads across earned and owned media.
+
+Specific examples include authoring white papers (i.e. [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)) and producing snappy social content that position the socio-economic impact of Siemens' innovation, leveraging my parallel expertise in AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
 
 📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
 
