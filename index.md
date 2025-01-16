@@ -27,7 +27,7 @@ Produced academic, non-profit, and industry outputs that bridge technical, regul
 
 - 🤖 **[AI Policy Research Group Member](https://www.linkedin.com/company/center-for-ai-and-digital-policy/)** — **Center for AI and Digital Policy, US** (2024- Present)
 - 🌐 **[Certified Data Ethics Professional and Facilitator](https://theodi.org/profile/carmen-ng/)** — **Open Data Institute, UK** (2022 - Present)
-- 📚 Co-author — **[MIT Science Policy Review](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)**: Published peer-reviewed research on the ethical and regulatory challenges of emotion AI in biometric technologies (2022)
+- 📚 **Co-author — [MIT Science Policy Review](https://sciencepolicyreview.org/2022/07/mitspr-191618003010/)**: Published peer-reviewed research on the ethical and regulatory challenges of emotion AI in biometric technologies (2022)
 - 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** — **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** on international AI governance and digital rights frameworks (Cohort 2021)
 
 ### 📱 AI and Climate Technology Communications
@@ -54,7 +54,7 @@ Produced academic, non-profit, and industry outputs that bridge technical, regul
 **AI Policy Research Group Member**  
 **Center for AI & Digital Policy**
 📅 (2024 - Present)  
-- Researching regional AI trends, contributing policy briefs tp support CAIDP's in shaping responsible AI regulations.
+- Researching regional AI trends, contributing policy briefs to help shape responsible AI regulations.
 
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
@@ -63,15 +63,15 @@ I lead strategic efforts to communicate Siemens' financing for transformative te
 
 - **Campaign strategy**: Developed narratives for multi-vertical campaigns (e.g., digital twins, e-mobility, healthcare, smart cities, climate resilience), bridging technical, social, and financial topics
 - **Event partnerships & speaker placement**: Managed stakeholder relationships and global engagements
-- **Content creation**: Authored thought leadership white papers ([Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)), and created partnered content with NYT and WSJ
-- **Content formats**: Produced blogs, research papers, and social reels, driving significant engagement (200%+ increase across EMEA). Examples include [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
+- **Content creation**: Authored **thought leadership white papers** ([Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)), and created partnered content with NYT and WSJ
+- **Content formats**: Produced **blogs, research papers**, and **social reels**, driving significant engagement (200%+ increase across EMEA). Examples include [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
 
 📅 (2014 - 2020) Led communications strategy and content creation over the course of 25+ technology projects in former Siemens roles, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation**
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
 📅 (2010 - 2014)  
-- Scaled Reuters premium social media platforms following by **300%**.
+- Scaled Reuters premium social media platforms following by 300%.
 - **Produced live events and breaking news coverage** on Asian financial markets and top global policies, aligning with audience needs across Asia
 
 **Freelance Journalist / Stringer / Co-Producer**  
@@ -114,8 +114,7 @@ Center for AI and Digital Policy**_ (2024)
 
 **Co-Author**:  
 _**MIT Science Policy Review**_ (2022)  
-- Co-authored: *"Should machines be allowed to ‘read our minds’? Uses and regulation of biometric techniques that attempt to infer mental states."*
-- Published in the peer-reviewed **MIT Science Policy Review, 3, 112-121** (2022). [![DOI](https://img.shields.io/badge/DOI-10.38105/spr.qy2iibrk72-blue.svg)](https://doi.org/10.38105/spr.qy2iibrk72)
+- Co-authored peer-reviewed research: *"Should machines be allowed to ‘read our minds’? Uses and regulation of biometric techniques that attempt to infer mental states."* [![DOI](https://img.shields.io/badge/DOI-10.38105/spr.qy2iibrk72-blue.svg)](https://doi.org/10.38105/spr.qy2iibrk72)
 
 **Research Sprint Fellow:**  
 **Berkman Klein Center for Internet & Society, Harvard University**  (2021)
