@@ -8,7 +8,7 @@ _Bridging inclusive AI development across Asia and the West_
 
 ---
 
-I bring a unique mix of expertise in **AI research and data science** (Center for AI & Digital Policy, ODI, MIT), **thought leadership communications** specializing in AI and digital innovation (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
+I bring a unique mix of expertise in **AI research and data science** (Center for AI & Digital Policy, ODI, MIT), **thought leadership communications** specializing in AI and digital innovation in infrastructure and industry (Siemens), and **journalism** with **user-centric curation experience** (Reuters). My cross-disciplinary expertise — honed over a decade of work experience in Europe and Asia — enables me to work effectively with data scientists on AI projects, anticipate policy considerations, collaborate with corporate and media stakeholders, and lead cross-team innovation initiatives.
 
 I also host **learning workshops on AI risks and governance** for product, communications and governance teams, as well as for public education in both Chinese and English. Whether it's educating corporate teams on ethical AI practices or informing the public about AI risks in real-world examples, I tailor the materials to suit the specific audience, cultural language and sector domains (energy, smart cities, media), promoting intercultural AI development. Please reach out if you have any enquiries.
 
@@ -26,8 +26,9 @@ I have produced academic, non-profit research outputs, and industry credentials 
 - 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** (Cohort 2021) on international AI governance analysis and digital rights frameworks, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
 ### 📱 AI and Climate Technology Communications
-- 👩🏼‍💻 **Senior communications expert** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy transition, urban infrastructure, transport, and industry. My role spans crafting communications strategy for multiple verticals (e.g. data centers, F&B, hospitals, campuses, industry, etc) and tailored narratives for emerging technologies (e.g. carbon removal), managing stakeholders, and producing short- and long-form content that blend research rigor and editorial flair for partnered or owned channels.
+- 👩🏼‍💻 **Senior communications expert** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy transition, urban infrastructure, transport, and industry. 
 
+- My role spans crafting **communications strategy for multiple verticals** (e.g. data centers, F&B, hospitals, campuses, industry, etc) and **tailored narratives** for emerging technologies (e.g. carbon removal), managing **stakeholders and event engagement**, and producing **short- and long-form content that blend research rigor and editorial flair** for partnered or owned channels.
 
 ### 🎥 Journalism
 - 📝 **Former community editor** at **Reuters News**, with a user-centric breaking news curation role for pan-Asia news
@@ -54,20 +55,21 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Siemens**, Germany  
 📅 (2020 - Present)  
 I lead editorial, technical, and analytical efforts to communicate the impact of financing transformative technologies through activities such as: 
-**Crafting communications strategy and narratives** for multi-vertical campaigns
-**Managing speaker placements and event partnerships**
-**Producing thought leadership content such as blogs, research papers, and video explainers** on technology and financing topics for partnered or owned channels
+- **Crafting communications strategy and narratives** for multi-vertical campaigns
+- **Managing speaker placements and event partnerships**
+- **Producing thought leadership content such as blogs, research papers, and video explainers** on technology and financing topics for partnered or owned channels
 
-**Key achievements include:**
-- Demonstrated strong storytelling and stakeholder collaboration skills by leading **cross-market, cross-domain campaigns**
-- Positioned complex AI and digital solutions — from **climate resilience, urban transformation, digital twins, e-mobility, to healthcare innovation** — as critical to global and local societal impactas
-- **Drove significant engagmenet**, including increased reach and downloads across earned and owned media.
+**What I emphasize:**
+- Devising narratives that **bridge technical, social, and financial topics** and tailoring them for diverse regions 
+- Positioning complex AI and digital solutions — from **climate resilience, urban transformation, digital twins, e-mobility, to healthcare innovation** — as critical to global and local societal impacts
+- **Driving significant engagmenet**, including increased reach and downloads across earned and owned media, through content formats spanning  social reels and research papers
+- **Leveraging my parallel expertise in AI research** within EU markets and beyond, and ML/DL/GenAI model impacts in applied contexts
 
-Specific examples:
-- **Led-wrote white papers** [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html))
-- **Created partnered content** with media outlets (e.g. NYT, WSJ)
-- **Producing snappy social content** highlighting Siemens' socio-economic innovation impact
-leveraging my parallel expertise in AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
+**Highlights include:**
+- **Led-wrote white papers on thought leadership topics** [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html))
+- **Crafted editorial blogs, led speech writing and podcast production** on smart infrastructure, such as [sustainable water in the Middle East](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/partnering-for-sustainable-water-in-the-united-arab-emirates.html), [energy transition in Asia](https://www.siemens.com/global/en/products/financing/siemens-financial-insight-center/investing-in-taiwans-energy-transition.html), [smart buildings for decarbonization](https://siemens.fm/public/podcasts/5ee5b2f8ef9d7d07a97552b40dccc5e25f6541738c6634ac0b16b6eff812b01d/episodes/a1ca2b62d0fb70ef84a654923f4a4653/details)
+- **Created partnered content** on sustainable infrastructure with media outlets (e.g. NYT, WSJ)
+- **Produced snappy social content** that boosted social following consistently
 
 📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
 
