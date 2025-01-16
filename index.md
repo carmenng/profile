@@ -107,9 +107,9 @@ I lead strategic efforts to communicate Siemens' financing for transformative te
 ### 📚 Publication & AI Research
 
 **Contributor & Research Group Member**:  
-_**"Artificial Intelligence and Democratic Values 2023 AI Index"
-Center for AI and Digital Policy**_ (2024)
-- Co-developed [The 2023 AI and Democratic Values Index](http://www.caidp.org/reports/aidv-2023), a  review of AI policies across 80 countries, covering:
+*"Artificial Intelligence and Democratic Values 2023 AI Index"*
+_**Center for AI and Digital Policy**_ (2024)
+- Co-developed [The 2023 AI and Democratic Values Index](http://www.caidp.org/reports/aidv-2023), a review of AI policies across 80 countries, covering:
 - Governance practices on generative AI; the EU AI Act, African Union's AI proposal, the UNESCO Recommendation on AI Ethics. 
 
 **Co-Author**:  
