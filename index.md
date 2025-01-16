@@ -26,7 +26,7 @@ I have produced academic, non-profit research outputs, and industry credentials 
 - 📝 **[Research Sprint Fellow](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world)** (Cohort 2021) on international AI governance analysis and digital rights frameworks, hosted by the **Berkman Klein Center for Internet & Society at Harvard University, Digital Asia Hub** in collaboration with the **Global Network of Internet & Society Centers**.
 
 ### 📱 AI and Climate Technology Communications
-- 👩🏼‍💻 **Senior communications expert** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy transition, urban infrastructure, transport, and industry. My role spans crafting communications strategy for multiple verticals (e.g. data centers, F&B, hospitals, campuses, industry, etc) and tailored narratives for emerging technologies (e.g. carbon removal), collabroataing with diverse stakeholders, and producing short- and long-form content that fuse research rigor and editorial flair for partnered or owned channels.
+- 👩🏼‍💻 **Senior communications expert** at **Siemens** with experience in crafting global campaigns and research studies on AI and digital technologies across energy transition, urban infrastructure, transport, and industry. My role spans crafting communications strategy for multiple verticals (e.g. data centers, F&B, hospitals, campuses, industry, etc) and tailored narratives for emerging technologies (e.g. carbon removal), managing stakeholders, and producing short- and long-form content that blend research rigor and editorial flair for partnered or owned channels.
 
 
 ### 🎥 Journalism
@@ -53,11 +53,21 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2020 - Present)  
-I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies through diverse activities, ranging from **crafting communications strategy** for multi-vertical campaigns, **managing speaker placements and event partnerships**, to **producing thought leadership blogs, research papers, and video explainers** that align with strategic narratives. 
+I lead editorial, technical, and analytical efforts to communicate the impact of financing transformative technologies through activities such as: 
+**Crafting communications strategy and narratives** for multi-vertical campaigns
+**Managing speaker placements and event partnerships**
+**Producing thought leadership content such as blogs, research papers, and video explainers** on technology and financing topics for partnered or owned channels
 
-Particularly, I have demonstrated strong storyteling and stakeholder collaboration skills while leading **cross-market, cross-domain campaigns** that position complex AI and digital solutions — from **climate resilience, digital twins, e-mobility, to healthcare innovation** — as vital to global and local societal impact, driving reach and downloads across earned and owned media.
+**Key achievements include:**
+- Demonstrated strong storytelling and stakeholder collaboration skills by leading **cross-market, cross-domain campaigns**
+- Positioned complex AI and digital solutions — from **climate resilience, urban transformation, digital twins, e-mobility, to healthcare innovation** — as critical to global and local societal impactas
+- **Drove significant engagmenet**, including increased reach and downloads across earned and owned media.
 
-Specific examples include **authoring white papers** (i.e. [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html)), **creating partnered content with media outlets**, and **producing snappy social content** that position the socio-economic impact of Siemens' innovation, leveraging my parallel expertise in AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
+Specific examples:
+- **Led-wrote white papers** [Carbon Removal Catalyst](https://www.siemens.com/global/en/products/financing/whitepapers/whitepaper-carbon-removal-catalyst.html); [Sustainable AI: The Fourth Wave In Data Center Demand](https://www.siemens.com/global/en/products/financing/whitepapers/sustainable-ai-the-fourth-wave-in-data-center-demand.html))
+- **Created partnered content** with media outlets (e.g. NYT, WSJ)
+- **Producing snappy social content** highlighting Siemens' socio-economic innovation impact
+leveraging my parallel expertise in AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts. 
 
 📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
 
