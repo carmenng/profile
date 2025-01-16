@@ -8,10 +8,10 @@ _Bridging inclusive AI development across Asia and the West_
 
 ---
 
-I bring a unique mix of expertise in **AI research** (Center for AI & Digital Policy, ODI, MIT), **thought leadership communications** specialised in AI and digital technologies in infrastructure and industry (Siemens), and **breaking news journalism** (Reuters). With over a decade of cross-disciplinary experience in Europe and Asia, I work effectively across domains to:  
+I bring a unique mix of expertise in **AI research** (Center for AI & Digital Policy, ODI, MIT), **thought leadership communications** specialised in AI and decarbonization technologies in infrastructure and industry (Siemens), and **breaking news journalism** (Reuters). With over a decade of cross-disciplinary experience in Europe and Asia, I work effectively across domains to:  
 
 - Collaborate with data scientists/business teams on AI projects  
-- Anticipate and address policy considerations  
+- Anticipate and address policy considerations in AI and sustainability
 - Lead cross-team innovation initiatives  
 - Translate complex topics into impactful narratives for diverse audiences  
 
