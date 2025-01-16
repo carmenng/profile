@@ -62,7 +62,7 @@ over the course of 25+ technology projects in former EMEA roles with Siemens inc
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
-📅 (2012 - 2014)  
+📅 (2010 - 2014)  
 I scaled the following base of Reuters’ premier social media platform by 300% through curating breaking news content and discussions, producing live events and explainer content on Asian financial markets and top policies, with real-time alignment to timely topics and audiences’ interests.
 
 **Freelance Journalist / Stringer / Co-Producer**  
@@ -84,7 +84,7 @@ I produced and co-produced political and social reports and documentaries about 
 | Skill Category                | Details                                  |
 |-------------------------------|------------------------------------------|
 | **Machine learning**   | Knowledge of ML algorithms and model building (e.g. data preprocessing, PCA, feature selection, dimension reduction, fitting), validation, auditing, ethical review. |
-| **Algorithms**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
+| **Algorithms & Models**   | regression, decision tree, random forest, K-means, KNNs; understanding of CNNs, GANs, transformer, etc. |
 | **Fairness in AI**   | De-biasing methods, e.g. randomization, feature-based, counterfactual explanation. Understanding of FaCCT challenges, e.g. LLMs bias benchmarking. |
 | **Programming**   | Foundational-intermediate skills in R and Python (e.g. PyTorch, NumPy, Pandas, sckit-learn) |
 | **Data analysis**   | Textual and sentiment analysis, statistical inference, pattern correlation, visualization. |
