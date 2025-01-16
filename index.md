@@ -53,12 +53,11 @@ I contribute regional AI trend mapping and research pieces for CAIDP's ongoing p
 **Senior Communications Manager, External Partnership & Engagement**  
 **Siemens**, Germany  
 📅 (2022 - Present)  
-I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies - leading cross-market campaigns that position complex AI and digital solutions — from climate resilience, digital twins, e-mobility, to healthcare innovation — as vital to global and local societal impact, driving reach and downloads across earned and owned media through impactful media relations and social campaigns. 
+I combine editorial, technical and analytics roles to communicate the role of financing for transformative technologies. I lead cross-market thought leadership campaigns that position complex AI and digital solutions — from climate resilience, digital twins, e-mobility, to healthcare innovation — as vital to global and local societal impact, driving reach and downloads across earned and owned media through media relations and social campaigns. 
 
-Uniquely informed by my expertise as an AI policy researcher, I produce industry-standard white papers and snappy social content that position the socio-economic impact of Siemens' AI and digital innovation, leveraging my expertise in global AI governance within EU institutions and beyond, and ML/DL/GenAI model impacts in diverse applied contexts.
+Uniquely informed by my expertise as an AI policy researcher, I produce white papers and snappy social content that position the socio-economic impact of Siemens' innovation, leveraging my expertise in global AI governance within EU markets and beyond, and ML/DL/GenAI model impacts in diverse applied contexts.
 
-📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA 
-over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
+📅 (2014 - 2020) Previously drove 200%+ sustained increase in reach and engagement across EMEA over the course of 25+ technology projects in former roles with Siemens, including: **Communications Manager for Smart Cities, Communications Manager for Digital Content Creation (EMEA & APAC)**
 
 **Community Editor & Multimedia Producer**  
 **Reuters News, Hong Kong**  
