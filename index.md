@@ -10,10 +10,10 @@ _Bridging inclusive AI development across Asia and the West_
 
 I bring a unique mix of expertise in **AI research** (Center for AI & Digital Policy, ODI, MIT), **thought leadership communications** specialised in AI and decarbonization technologies in infrastructure and industry (Siemens), and **breaking news journalism** (Reuters). With over a decade of cross-disciplinary experience in Europe and Asia, I work effectively across domains to:  
 
-- Collaborate with data scientists/business teams on AI projects  
-- Anticipate and address policy considerations in AI and sustainability
-- Facilitate cross-team and cross-cultural innovation initiatives  
-- Translate complex topics into impactful narratives for diverse audiences  
+- Translate complex socio-technical topics into engaging narratives for diverse audiences
+- Collaborate with data scientists/business teams on AI ethics mapping  
+- Anticipate and address policy considerations in technology and sustainability
+- Facilitate cross-team and cross-cultural collaboration   
 
 I also host **learning workshops on AI risks and governance** (in Chinese & English) for corporate teams, public education, intercultural development. I tailor the materials to suit the specific audience, cultural language and sector domains (energy, smart cities, media). Feel free to connect for inquiries 🙌
 
